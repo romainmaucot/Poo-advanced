@@ -17,4 +17,3 @@ Utilisation :
     
 Génération aléatoire de concerts, groupes de musique, de musiciens et de leurs instruments
 
-    https://app.codacy.com/project/romainmaucot/Poo-advanced/dashboard?bid=13606290
